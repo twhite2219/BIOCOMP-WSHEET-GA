@@ -1,0 +1,100 @@
+highest fitness of generation 0 is 32 
+average fitness of generation 0 is 26.000000 1332 
+highest fitness of generation 1 is 34 
+average fitness of generation 1 is 28.000000 1407 
+highest fitness of generation 2 is 34 
+average fitness of generation 2 is 29.000000 1458 
+highest fitness of generation 3 is 35 
+average fitness of generation 3 is 30.000000 1509 
+highest fitness of generation 4 is 37 
+average fitness of generation 4 is 31.000000 1567 
+highest fitness of generation 5 is 36 
+average fitness of generation 5 is 32.000000 1638 
+highest fitness of generation 6 is 38 
+average fitness of generation 6 is 34.000000 1707 
+highest fitness of generation 7 is 39 
+average fitness of generation 7 is 34.000000 1748 
+highest fitness of generation 8 is 40 
+average fitness of generation 8 is 35.000000 1792 
+highest fitness of generation 9 is 40 
+average fitness of generation 9 is 36.000000 1839 
+highest fitness of generation 10 is 41 
+average fitness of generation 10 is 37.000000 1895 
+highest fitness of generation 11 is 42 
+average fitness of generation 11 is 39.000000 1954 
+highest fitness of generation 12 is 42 
+average fitness of generation 12 is 39.000000 1986 
+highest fitness of generation 13 is 43 
+average fitness of generation 13 is 40.000000 2007 
+highest fitness of generation 14 is 42 
+average fitness of generation 14 is 40.000000 2026 
+highest fitness of generation 15 is 43 
+average fitness of generation 15 is 40.000000 2043 
+highest fitness of generation 16 is 43 
+average fitness of generation 16 is 41.000000 2064 
+highest fitness of generation 17 is 43 
+average fitness of generation 17 is 41.000000 2090 
+highest fitness of generation 18 is 43 
+average fitness of generation 18 is 42.000000 2109 
+highest fitness of generation 19 is 44 
+average fitness of generation 19 is 42.000000 2136 
+highest fitness of generation 20 is 44 
+average fitness of generation 20 is 42.000000 2145 
+highest fitness of generation 21 is 44 
+average fitness of generation 21 is 43.000000 2155 
+highest fitness of generation 22 is 45 
+average fitness of generation 22 is 43.000000 2173 
+highest fitness of generation 23 is 45 
+average fitness of generation 23 is 43.000000 2183 
+highest fitness of generation 24 is 45 
+average fitness of generation 24 is 43.000000 2191 
+highest fitness of generation 25 is 45 
+average fitness of generation 25 is 44.000000 2203 
+highest fitness of generation 26 is 45 
+average fitness of generation 26 is 44.000000 2210 
+highest fitness of generation 27 is 46 
+average fitness of generation 27 is 44.000000 2223 
+highest fitness of generation 28 is 46 
+average fitness of generation 28 is 44.000000 2235 
+highest fitness of generation 29 is 46 
+average fitness of generation 29 is 44.000000 2249 
+highest fitness of generation 30 is 46 
+average fitness of generation 30 is 45.000000 2264 
+highest fitness of generation 31 is 46 
+average fitness of generation 31 is 45.000000 2284 
+highest fitness of generation 32 is 46 
+average fitness of generation 32 is 45.000000 2296 
+highest fitness of generation 33 is 46 
+average fitness of generation 33 is 46.000000 2300 
+highest fitness of generation 34 is 46 
+average fitness of generation 34 is 46.000000 2300 
+highest fitness of generation 35 is 46 
+average fitness of generation 35 is 46.000000 2300 
+highest fitness of generation 36 is 46 
+average fitness of generation 36 is 46.000000 2300 
+highest fitness of generation 37 is 46 
+average fitness of generation 37 is 46.000000 2300 
+highest fitness of generation 38 is 46 
+average fitness of generation 38 is 46.000000 2300 
+highest fitness of generation 39 is 46 
+average fitness of generation 39 is 46.000000 2300 
+highest fitness of generation 40 is 46 
+average fitness of generation 40 is 46.000000 2300 
+highest fitness of generation 41 is 46 
+average fitness of generation 41 is 46.000000 2300 
+highest fitness of generation 42 is 46 
+average fitness of generation 42 is 46.000000 2300 
+highest fitness of generation 43 is 46 
+average fitness of generation 43 is 46.000000 2300 
+highest fitness of generation 44 is 46 
+average fitness of generation 44 is 46.000000 2300 
+highest fitness of generation 45 is 46 
+average fitness of generation 45 is 46.000000 2300 
+highest fitness of generation 46 is 46 
+average fitness of generation 46 is 46.000000 2300 
+highest fitness of generation 47 is 46 
+average fitness of generation 47 is 46.000000 2300 
+highest fitness of generation 48 is 46 
+average fitness of generation 48 is 46.000000 2300 
+highest fitness of generation 49 is 46 
+average fitness of generation 49 is 46.000000 2300 
