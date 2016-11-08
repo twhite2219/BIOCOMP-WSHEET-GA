@@ -1,1 +1,6 @@
-﻿  GA-BIO-C.vcxproj -> C:\Users\TOBY WHITE\Desktop\Dropbox\GitHub\BIOCOMP-GA-C\Debug\GA-BIO-C.exe
+﻿  GA-BIO-C.c
+c:\users\toby white\desktop\dropbox\github\biocomp-wsheet-ga\ga-bio-c\ga-bio-c.c(5): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+  c:\users\toby white\desktop\dropbox\github\biocomp-wsheet-ga\ga-bio-c\ga-bio-c.c(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby white\desktop\dropbox\github\biocomp-wsheet-ga\ga-bio-c\ga-bio-c.c(36): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\toby white\desktop\dropbox\github\biocomp-wsheet-ga\ga-bio-c\ga-bio-c.c(59): warning C4013: 'exit' undefined; assuming extern returning int
+  GA-BIO-C.vcxproj -> C:\Users\TOBY WHITE\Desktop\Dropbox\GitHub\BIOCOMP-WSHEET-GA\Debug\GA-BIO-C.exe

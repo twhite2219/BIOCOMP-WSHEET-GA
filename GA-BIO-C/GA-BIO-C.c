@@ -23,7 +23,6 @@ int parentfit, offit;
 void evaluate() {
 
 	for (int i = 0; i < P; i++) {// test the code by applying a fitness function
-		population[i].fitness = 0;
 		for (int j = 0; j < N; j++)
 		{
 			if (population[i].gene[j])
